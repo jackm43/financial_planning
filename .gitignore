@@ -1,0 +1,12 @@
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+.venv
+.env
+*.csv
+outputs/*.json
+*.python-version
+*.ipynb
