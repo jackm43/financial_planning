@@ -10,3 +10,4 @@ wheels/
 outputs/*.json
 *.python-version
 *.ipynb
+*.json
