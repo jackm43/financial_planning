@@ -9,6 +9,7 @@ description = "Add your description here"
 readme = "README.md"
 requires-python = ">=3.10"
 dependencies = [
+    "aiohttp>=3.11.16",
     "dotenv>=0.9.9",
     "jupyterlab>=4.4.0",
     "matplotlib>=3.10.1",
